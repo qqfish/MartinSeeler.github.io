@@ -5,12 +5,12 @@ date:   2013-12-19 23:51:01
 tags:  jekyll
 ---
 
-{% highlight C %}
-int main(){
-	printf("hello world!!\n");
-	return 0;
-}
-{% endhighlight%}
+{% highlight c %}
+  int main(){
+    printf("hello world!!\n");
+    return 0;
+  }
+{% endhighlight %}
 
 Hello World!! Here is my first post of Jekyll. Thanks to Seeler's template, which looks really cool.  I will also keep updating this template in the future. 
 
